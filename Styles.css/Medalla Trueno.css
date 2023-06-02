@@ -1,0 +1,16 @@
+body {
+    background-color: yellowgreen;
+    font-size: medium;
+    font-family:fantasy
+    font-style:oblique;
+    color: black ; 
+}
+
+p {
+    text-align: justify;
+}
+
+#home {
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

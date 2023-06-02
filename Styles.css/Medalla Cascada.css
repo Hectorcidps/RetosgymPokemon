@@ -1,0 +1,21 @@
+body{
+background-color: grey;
+}
+
+#parrafo1 {
+    text-align: justify;
+}
+#parrafo2 {
+    text-align: justify;
+}
+#parrafo3 {
+    text-align: justify;
+}
+#parrafo4 {
+    text-align: justify;
+}
+
+#home {
+    color: black;
+    font-size: larger;
+}

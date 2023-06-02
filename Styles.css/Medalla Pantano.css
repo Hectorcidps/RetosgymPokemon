@@ -1,0 +1,18 @@
+body {
+    background-color: orange;
+}
+h2 {
+    border-style: dashed;
+    border-color: yellow;
+    text-align: center;
+}
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#home {
+    color: grey;
+    font-size: large;
+}

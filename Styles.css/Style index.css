@@ -1,0 +1,30 @@
+body{
+     background-color: rosybrown;
+}
+    
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px double;
+    border-color: red green yellow blue;
+
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-style: italic;
+  }
+
+

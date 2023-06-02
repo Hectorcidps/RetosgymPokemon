@@ -1,0 +1,46 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: yellow
+}
+img {
+    border-radius: 30px;
+    width: 500px;
+    height: 300px;
+    
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-style: italic;
+    text-align: justify;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+}
+
+#boton1 {
+    background-color: green;
+    color: black;
+    font-size: medium;
+    border: 3 px solid black;
+}
+#boton2 {
+    background-color: red;
+    color: black;
+    font-size: medium;
+    border: 3 px solid red;
+}
+
+#home{
+    color: black;
+    font-size: medium;
+}
